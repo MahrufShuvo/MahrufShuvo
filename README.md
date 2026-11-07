@@ -11,10 +11,10 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/mahruf60/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a></td>
-    <td><a href="https://fb.com/mahruf60"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"></a></td>
+    <td><a href="https://www.linkedin.com/in/mahrufshuvo/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"></a></td>
+    <td><a href="https://fb.com/mahruf.shuvoo"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"></a></td>
     <td><a href="https://instagram.com/mahruf.shuvo"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"></a></td>
-    <td><a href="https://www.youtube.com/@mahruf60"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"></a></td>
+    <td><a href="https://www.youtube.com/@mahruf.shuvoo"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"></a></td>
     <td><a href="https://www.hackerrank.com/CoderMahruf"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"></a></td>
     <td><a href="https://www.leetcode.com/mahruf60"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"></a></td>
   </tr>
