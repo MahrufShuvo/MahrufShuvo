@@ -40,5 +40,5 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=mahruf60&background=0d1117&ring=00ffcc&fire=ff6600&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=9ca3af" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&background=0d1117&ring=00ffcc&fire=ff6600&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c0caf5&sideLabels=c0caf5&dates=9ca3af&hide_border=true" alt="GitHub streak stats" />
 </p>
